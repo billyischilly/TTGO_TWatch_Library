@@ -1,0 +1,57 @@
+#######################################
+# Syntax Coloring Map for TinyScreen
+#######################################
+
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+lv_obj_t	LITERAL1
+lv_style_t	LITERAL1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+lv_obj_set_size	KEYWORD2
+lv_obj_add_style	KEYWORD2
+lv_obj_set_width	KEYWORD2
+lv_obj_align	KEYWORD2
+lv_obj_set_event_cb	KEYWORD2
+lv_slider_set_range	KEYWORD2
+lv_style_set_text_font	KEYWORD2
+lv_label_set_text KEYWORD2	
+lv_obj_align	KEYWORD2
+lv_obj_set_style_local_text_font	KEYWORD2
+lv_styllve_set_bg_color	KEYWORD2
+lv_style_set_border_color	KEYWORD2
+lv_style_set_bg_color	KEYWORD2
+lv_style_set_border_color	KEYWORD2
+lv_obj_add_style	KEYWORD2
+lv_label_set_text	KEYWORD2
+lv_obj_set_auto_realign	KEYWORD2
+lv_scr_load	KEYWORD2
+lv_label_create	KEYWORD2
+lv_slider_set_value	KEYWORD2
+lv_obj_set_style_local_bg_color	KEYWORD2
+lv_chart_set_range KEYWORD2
+lv_chart_set_div_line_count KEYWORD2
+lv_chart_set_type KEYWORD2
+lv_chart_set_update_mode KEYWORD2
+lv_style_set_transform_width KEYWORD2
+lv_style_set_transform_height KEYWORD2
+lv_style_set_value_letter_space KEYWORD2
+lv_style_set_transition_path KEYWORD2
+lv_style_set_transition_time KEYWORD2
+lv_style_set_transition_delay KEYWORD2
+lv_style_set_transition_prop_1 KEYWORD2
+lv_style_set_transition_prop_2 KEYWORD2
+lv_style_set_transition_prop_3 KEYWORD2
+lv_style_set_outline_opa KEYWORD2
+lv_style_set_border_width KEYWORD2
+lv_style_set_pad_inner KEYWORD2
+lv_style_set_pad_top KEYWORD2
+lv_style_set_pad_left KEYWORD2
+lv_style_set_pad_right KEYWORD2
+lv_obj_set_style_local_border_color KEYWORD2
